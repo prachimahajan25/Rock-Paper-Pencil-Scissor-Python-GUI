@@ -1,4 +1,9 @@
-﻿# Rock-Paper-Pencil-Scissor-Python-GUI
+## Description
+It is played between computer and player.
+
+## Built with
+
+Python
 
  ### Images
  
